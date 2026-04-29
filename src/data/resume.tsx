@@ -15,7 +15,7 @@ export const DATA = {
   url: "https://ankitpandey.io",
   location: "Delhi, India",
   locationLink: "https://www.google.com/maps/place/delhi",
-  description: "MySQL, Python, Excel, EDA, and Tableau",
+  description: "MySQL, Python, Excel and Tableau",
   summary:
     "Data analyst skilled in SQL and PostgreSQL for querying, Excel for reporting, and Python for data cleaning and exploratory data analysis (EDA). Experienced in building dashboards and visualizations with Tableau to translate data into actionable insights.",
   avatarUrl: "https://avatars.githubusercontent.com/u/36405347?v=4",
@@ -159,7 +159,7 @@ export const DATA = {
       links: [
         {
           type: "Live",
-          href: "#",
+          href: "https://public.tableau.com/views/v3DVA_Capstone2-EditedbyAdithya/Dashboard3-Impact?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
           icon: <Icons.globe className="size-3" />,
         },
         {
